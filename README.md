@@ -6,7 +6,7 @@
 ## 本GitHubに関する補足
 - 会社員としてはEnterprise GitHubにcommitしており、 副業ではプライベートリポジトリにcommitしているため、草は生えてないですが、エンジニアリングに関する最低限の素養はございます。
 - 名前はRyosuke Takahashiになってますが、村上僚のリポジトリです。
-- あるのは、基本的に学生時代のコードで、今はよりまともなコードを書けます。
+- 掲載されているのは、基本的に学生時代のコードで、今は、当時よりまともなコードを書けます。
 
 ## 学歴
 - 海城中学/高校卒業
@@ -98,19 +98,3 @@
 ### 連絡先
 - [Twitter](https://twitter.com/home)
 - [Facebook](https://www.facebook.com/ryo.murakami.3998)
-
-
-<!--
-**RyosukeTakahashi/RyosukeTakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
