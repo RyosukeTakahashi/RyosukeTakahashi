@@ -92,7 +92,7 @@
 ### blog
 - [note](https://note.com/ryo_mura_brains)
   - 一番ヒットした記事は、[リモートワーク用のデスク環境の記事](https://note.com/ryo_mura_brains/n/n72bb3d0b73b3)
-  - だが、コーチングや傾聴系の記事のほうが多くはある
+  - だが、[コーチングや傾聴系の記事](https://note.com/ryo_mura_brains/n/n72bb3d0b73b3)のほうが多くはある
 
 
 ### 連絡先
